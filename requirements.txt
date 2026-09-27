@@ -1,2 +1,5 @@
-panda
-streamlit
+   streamlit
+   yfinance
+   pandas
+   ta
+   scikit-learn
